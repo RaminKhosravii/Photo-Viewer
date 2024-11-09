@@ -1,0 +1,9 @@
+# ninja log v6
+5	582	7527806887850385	Media-Player_autogen/timestamp	990c22ce41b291ff
+5	582	7527806887850385	Media-Player_autogen/mocs_compilation.cpp	990c22ce41b291ff
+5	582	7527806887850385	C:/Users/Ramin/Desktop/Ramin/Qt/Media-Player/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Media-Player_autogen/timestamp	990c22ce41b291ff
+5	582	7527806887850385	C:/Users/Ramin/Desktop/Ramin/Qt/Media-Player/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/Media-Player_autogen/mocs_compilation.cpp	990c22ce41b291ff
+593	3760	7527806888738365	CMakeFiles/Media-Player.dir/main.cpp.obj	61651a2cdf795715
+597	3929	7527806888738365	CMakeFiles/Media-Player.dir/mainwindow.cpp.obj	f0b9e6e4a22cc0c
+589	3982	7527806888706394	CMakeFiles/Media-Player.dir/Media-Player_autogen/mocs_compilation.cpp.obj	1e28708c1f67a6c7
+3982	4603	7527806922640050	Media-Player.exe	3e5a024cf3746af
